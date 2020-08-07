@@ -4,17 +4,19 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class start : MonoBehaviour
-{
-    
-    // Start is called before the first frame update
+{    
+    // Stat is called before the first frame update
     void Start()
     {
-   
-       
+    //    print("start start");
     }
     public void OnMouseDown()
     {
         SceneManager.LoadScene("what");
+    }
+    public void sibang()
+    {
+
     }
     // Update is called once per frame
     void Update()
