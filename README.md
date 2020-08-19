@@ -1,5 +1,7 @@
 # tictactoe_Unity
-틱택토 게임
+게임 시연 영상 유튜브 주소 : https://www.youtube.com/watch?v=VOtkPE09ins
+
+두가지 모드의 틱택토 게임
 
 *개발 언어 : C#
 
